@@ -9,7 +9,9 @@
 - 🌱  My experience includes: Html5, CSS, Javascript, Node, Express, MongoDB, React and basic networking tools. 
 - 🌱  I am currently learning: Angular
 
-- 📫  How to reach me: [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aliciaparra1/) [<img align="center" alt="website" width="22px" src="https://image.flaticon.com/icons/png/128/1006/1006771.png" />](https://alicia.redparra.com/)
+- 📫  How to reach me: 
+  - [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aliciaparra1/) 
+  - [<img align="center" alt="website" width="22px" src="https://image.flaticon.com/icons/png/128/1006/1006771.png" />](https://alicia.redparra.com/)
 
 #### Languages and Tools:
 
