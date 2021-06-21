@@ -7,7 +7,7 @@
 - :muscle: I've been working as a physiotherapist for two years, but a year ago I realised that I wanted a big change in my life. I've always liked computers, websites, languages and creating new things. Becoming a full stack web developer is my dream now and I'm going to fight for it as hard as I can. I've finished the full-stack web development bootcamp at Ironhack, and now I keep doing projects on my own. I love learning something new every day, and gitHub is really helping me along the way.  
 
 - 🌱  My experience includes: Html5, CSS, Javascript, Node, Express, MongoDB, React and basic networking tools. 
-- 🌱  I am currently learning: Angular
+- 🌱  I am currently learning: React Native and typescript
 
 - 📫  How to reach me: 
   - [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aliciaparra1/) 
