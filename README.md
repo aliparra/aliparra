@@ -4,7 +4,7 @@
 <!--
 **aliparra/aliparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- :muscle: I've worked as a physiotherapist for two years, but a year ago I realised that I wanted a big change in my life. I've always liked new technologies and creating new things. I've finished the full-stack web development bootcamp at Ironhack, and now I keep doing projects on my own. I love learning something new every day, and gitHub is really helping me along the way.  
+- :muscle: Hi, I'm Alicia and I'm a junior full stack web developer.I worked as a physiotherapist for two years, but a year ago I realised that I wanted a big change in my life. I've always liked new technologies and creating new things. I've finished the full-stack web development bootcamp at Ironhack, and now I keep doing projects on my own. I love learning something new every day, and gitHub is really helping me along the way.  
 
 - 🌱  My experience includes: Html5, CSS, Javascript, Node, Express, MongoDB, React and basic networking tools. 
 - 🌱  I am currently learning: React Native and Typescript.
