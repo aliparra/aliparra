@@ -5,10 +5,10 @@
 **aliparra/aliparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - :muscle: Hi, I'm Alicia and I'm a full stack web developer.I worked as a physiotherapist for two years, but a year ago I realised that I wanted a big change in my life. I've always liked new technologies and creating new things. 
-I've finished the full-stack web development bootcamp at Ironhack, and now I keep doing projects on my own. I love learning something new every day, and gitHub is really helping me along the way.  
+I've finished the full-stack web development bootcamp at Ironhack, and now I work as a front end developer. I love learning something new every day, and gitHub is really helping me along the way.  
 
 - 🌱  My experience includes: Html5, CSS, Javascript, Node, Express, MongoDB, React and basic networking tools. 
-- 🌱  I am currently learning: React Native and Typescript.
+- 🌱  I am currently learning: LitElement, WebComponents and Typescript.
 
 - 📫  How to reach me: 
   - [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aliciaparra1/) 
