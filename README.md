@@ -7,8 +7,7 @@
 - :muscle: Hi, I'm Alicia and I'm a full stack web developer. I've always liked new technologies and creating new things. 
 I've finished the full-stack web development bootcamp at Ironhack, and now I work as a front end developer. I love learning something new every day, and gitHub is really helping me along the way.  
 
-- 🌱  My experience includes: Html5, CSS, Javascript, LitHtml, LitElement, openWC, Node, Express, MongoDB, React and basic networking tools. 
-- 🌱  I am currently learning: LitElement, WebComponents and Typescript.
+- 🌱  My experience includes: Html5, CSS, Javascript, LitHtml, LitElement, openWC, Node, Express, MongoDB, React, Ember and basic networking tools. 
 
 - 📫  How to reach me: 
   - [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aliciaparra1/) 
