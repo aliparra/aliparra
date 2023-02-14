@@ -10,18 +10,20 @@
 - Next.js
 
 #### 🌱 My Experience also includes :
--Html5
--CSS
--Javascript
--LitHtml
--LitElement
--openWC
--Ember
--Vue 2
--Astro
--Node
--Express
--MongoDB
+- Html5
+- CSS
+- Javascript
+- Jest
+- Vitest
+- LitHtml
+- LitElement
+- openWC
+- Ember
+- Vue 2
+- Astro
+- Node
+- Express
+- MongoDB
 
 
 #### Things I like ✔️:
