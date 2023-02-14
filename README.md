@@ -1,18 +1,49 @@
-### Hi 👋 , I'm Alicia, and I really enjoy learning and exploring the world of web development
-#### About me:
+## Hi 👋 , I'm Alicia, and I really enjoy learning and exploring the world of web development
+### About me :
 
-<!--
-**aliparra/aliparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- :muscle: Hi, I'm Alicia and I'm a **front end web developer**. I always loved creating new things. 
+- Hi, I'm Alicia and I'm a **front end web developer**.
 
-- 🔥 Im currenlty focused on: **Typescript**, **React** and **Next.js**. 
+#### 🔥 Currently Focused on: 
 
-- 🌱 But My experience also includes: Html5, CSS, Javascript, LitHtml, LitElement, openWC, Node, Express, MongoDB, Ember, Vue 2 and basic networking tools. 
+- Typescript
+- React
+- Next.js
 
-- 📫  Feel free to reach me: 
+#### 🌱 My Experience also includes :
+-Html5
+-CSS
+-Javascript
+-LitHtml
+-LitElement
+-openWC
+-Ember
+-Vue 2
+-Astro
+-Node
+-Express
+-MongoDB
+
+
+#### Things I like ✔️:
+  - 🫂 Teamwork with agile (Order makes everything so much easier!)
+  - 📓 Documentation (It helps me & others to understand code and projects)
+  - 🍄 Testing ( After solving many bugs... I loved them)
+  - 💧 Clean code   
+
+#### My main soft skills: 
+ - 🕵️‍♀️ Attention to details (I admit I love PR reviews)
+ - 🪴 Adaptability
+ - 💙 Empathy, helping others
+ - 🌟 Continuos learning
+
+--- 
+
+#### 📫 Contact options: 
+ Check out:
   - [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  My professional experience](https://www.linkedin.com/in/aliciaparra1/) 
   - [<img align="center" alt="website" width="22px" src="https://res.cloudinary.com/dv4pkbmin/image/upload/v1622031111/personal-web/avataaars_21_wc68q4.png"/>  My personal experience](https://alicia.redparra.com/)
+
+--- 
 
 #### Languages and Tools:
 <img align="left" alt="REACT" width="30px" src="https://user-images.githubusercontent.com/61117650/218804851-1647205e-b364-4171-9a60-c94088aa13d5.png" />
