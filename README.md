@@ -7,7 +7,6 @@
 
 - Typescript
 - React
-- Next.js
 
 #### 🌱 My Experience also includes :
 - Html5
@@ -18,8 +17,7 @@
 - LitHtml
 - LitElement
 - openWC
-- Ember
-- Vue 2
+- Next.js
 - Astro
 - Node
 - Express
@@ -33,7 +31,7 @@
   - 💧 Clean code   
 
 #### My main soft skills: 
- - 🕵️‍♀️ Attention to details (I admit I love PR reviews)
+ - 🕵️‍♀️ Attention to details
  - 🪴 Adaptability
  - 💙 Empathy, helping others
  - 🌟 Continuos learning
